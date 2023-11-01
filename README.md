@@ -7,7 +7,7 @@
 <a>
     <img align="left" src="https://simpleicons.vercel.app/javascript/F7DF1E" alt="Javascript img" width="40px" />
     <img align="left" src="https://simpleicons.vercel.app/react/61DAFB" alt="React img" width="40px" />
-    <img align="left" src="https://simpleicons.vercel.app/nodedotjs/339933" alt="NodeJs img" width="40px" />
+    <img src="https://simpleicons.vercel.app/nodedotjs/339933" alt="NodeJs img" width="40px" />
 </a>
 
 ### <summary><strong>Let's connect!</strong></summary>
