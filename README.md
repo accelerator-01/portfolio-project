@@ -14,9 +14,9 @@ Just started this year as Programmer.
 ### <summary><strong>Currently Learning</strong></summary>
 
 <a>
-    <img src="https://simpleicons.vercel.app/javascript/F7DF1E" alt="Javascript img"/>
-    <img src="https://simpleicons.vercel.app/react/61DAFB" alt="React img" />
-    <img src="https://simpleicons.vercel.app/nodedotjs/339933" alt="NodeJs img" />
+    <img src="https://simpleicons.vercel.app/javascript/F7DF1E" alt="Javascript img" width="40px" />
+    <img src="https://simpleicons.vercel.app/react/61DAFB" alt="React img" width="40px" />
+    <img src="https://simpleicons.vercel.app/nodedotjs/339933" alt="NodeJs img" width="40px" />
 </a>
 
 ### <summary><strong>Let's connect!</strong></summary>
