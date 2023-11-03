@@ -1,20 +1,37 @@
-# <summary><strong>Hi there! I'm Ahmad Firdaus!</strong></summary>
+<h2 align="center">
+  Portfolio-Website-Project<br/>
+  <a>Ahmad Firdaus</a>
+</h2>
+<div align="center">
+  <img alt="Demo" src="./Images/readme-img1.png" />
+</div>
 
-## Just started this year as Programmer.
+<br/>
 
-### <summary><strong>Currently Learning</strong></summary>
+<center>
 
-<a>
-    <img align="left" src="https://simpleicons.vercel.app/javascript/F7DF1E" alt="Javascript img" width="40px" />
-    <img align="left" src="https://simpleicons.vercel.app/react/61DAFB" alt="React img" width="40px" />
-    <img src="https://simpleicons.vercel.app/nodedotjs/339933" alt="NodeJs img" width="40px" />
-</a>
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 
-### <summary><strong>Let's connect!</strong></summary>
+</center>
 
-<a href="https://twitter.com/the_Dark_Fall">
-  <img align="left" alt="Firdaus's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://facebook.com/firdaus.ahmad.58910049/">
-  <img align="left" alt="Firdaus's Facebook" width="20px" src="https://simpleicons.vercel.app/facebook/0866FF" />
-</a>
+## Built With
+
+My personal portfolio <a>ahmd.firdaus.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+
+This project was built using these technologies.
+
+- React.js
+- Node.js
+- Express.js
+- Tailwind
+- VsCode
+
+## Features
+
+**📖 Multi-Page Layout**
+
+**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+
+**📱 Fully Responsive**
