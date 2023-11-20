@@ -1,37 +1,17 @@
-<h2 align="center">
-  Portfolio-Website-Project<br/>
-  <a>Ahmad Firdaus</a>
-</h2>
+<h1 align="center">Portfolio Projecat to Exercise my skill to build it alone</h1>
+
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+
+<h2>Nah, just start it. What do you espect from beginner?</h2>
+<img src='./Images/Thorfinn-back.jpg' alt='thorfinn'>
+
 </div>
 
-<br/>
+<ul align="left">
 
-<center>
+<li>Homepage "/"</li><br/>
+<li>Portfolio Project "/portfolio"</li><br/>
+<li>About Me "/about"</li><br/>
+<li>Contact Me "/contact"</li><br/>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-
-</center>
-
-## Built With
-
-My personal portfolio <a>ahmd.firdaus.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Express.js
-- Tailwind
-- VsCode
-
-## Features
-
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
+</ul>
