@@ -2,8 +2,8 @@ import { RouterProvider, createBrowserRouter } from "react-router-dom";
 
 import AppLayout from "./ui/AppLayout";
 import NavBar from "./ui/NavBar";
+// import Loader from "./ui/Loader";
 import Error from "./ui/Error";
-import Loader from "./ui/Loader";
 import Homepage from "./components/Homepage";
 import Portfolio from "./components/Portfolio";
 import About from "./components/About";
@@ -13,7 +13,7 @@ const router = createBrowserRouter([
   {
     element: <AppLayout />,
     errorElement: <Error />,
-    loader: <Loader />,
+    // loader: <Loader />,
     nav: <NavBar />,
     children: [
       {
