@@ -4,7 +4,9 @@ function Homepage() {
   return (
     <div>
       <NavBar />
-      <img src="../../Images/Thorfinn-back.jpg" />
+      <div className="text-center">
+        <p>Home</p>
+      </div>
     </div>
   );
 }

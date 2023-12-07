@@ -1,5 +1,5 @@
 import { useRouteError } from "react-router-dom";
-import Button from "./Button";
+// import Button from "./Button";
 
 function Error() {
   const error = useRouteError();
@@ -15,9 +15,9 @@ function Error() {
           <p className="mt-6 text-base leading-7 text-gray-600">
             {error.data || error.message}
           </p>
-          <div className="mt-10 flex items-center justify-center gap-x-6">
+          {/* <div className="mt-10 flex items-center justify-center gap-x-6">
             <Button to="/">Go back home</Button>
-          </div>
+          </div> */}
         </div>
       </main>
     </div>

@@ -6,7 +6,9 @@ function About() {
     <div>
       <NavBar />
       <LinkButton to="-1">&larr;Go Back</LinkButton>
-      <p>About me</p>
+      <div>
+        <p>About me</p>
+      </div>
     </div>
   );
 }
