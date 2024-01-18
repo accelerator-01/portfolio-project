@@ -1,37 +1,21 @@
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
-
-import NavBar from "./ui/NavBar";
-import Error from "./ui/Error";
-import Homepage from "./components/Homepage";
-import Portfolio from "./components/Portfolio";
+import Skill from "./components/Skill";
 import About from "./components/About";
+import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
-
-const router = createBrowserRouter([
-  {
-    errorElement: <Error />,
-    nav: <NavBar />,
-    children: [
-      {
-        path: "/",
-        element: <Homepage />,
-      },
-      {
-        path: "/portfolio",
-        element: <Portfolio />,
-      },
-      {
-        path: "/about",
-        element: <About />,
-      },
-      {
-        path: "/contact",
-        element: <Contact />,
-      },
-    ],
-  },
-]);
+import Profile from "./components/Profile";
+import Cert from "./components/Cert";
 
 export default function App() {
-  return <RouterProvider router={router} />;
+  return (
+    <div className="mx-auto">
+      <div>
+        <Profile />
+        <Skill />
+        <Cert />
+        <Contact />
+      </div>
+      <About />
+      <Portfolio />
+    </div>
+  );
 }
