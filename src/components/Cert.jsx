@@ -1,21 +1,19 @@
-import Carousel from "./Carousel";
-
 function Cert() {
   return (
-    <Carousel>
+    <div className="my-2 flex gap-0 border p-5">
+      <img
+        className="h-20 w-28"
+        src="/Images/Certificate-of-Beginner-Web-Develoeper.pdf"
+      />
       <img
         src="/Images/Certificate-of-Beginner-Ethical-Hacker.jpg"
-        alt="Certificate-of-Learn-Ethical-Hacker"
+        className="h-20 w-28"
       />
       <img
-        src="/Images/Certificate-of-Beginner-Web-Develoeper.pdf"
-        alt="Certificate-of-Learn-Web-Development"
-      />
-      <img
+        className="h-20 w-28"
         src="/Images/Certificate-of-Learning-React.pdf"
-        alt="Certificate-of-Learn-React"
       />
-    </Carousel>
+    </div>
   );
 }
 

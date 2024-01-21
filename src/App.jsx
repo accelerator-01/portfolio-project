@@ -3,19 +3,21 @@ import About from "./components/About";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Profile from "./components/Profile";
-import Cert from "./components/Cert";
+// import Cert from "./components/Cert";
 
 export default function App() {
   return (
-    <div className="mx-auto">
-      <div>
+    <div className="container mx-auto">
+      <div className="mb-5 mt-5 border-spacing-5 bg-slate-800">
         <Profile />
         <Skill />
-        <Cert />
+        {/* <Cert /> */}
         <Contact />
       </div>
-      <About />
-      <Portfolio />
+      <div className="bg-slate-800">
+        <About />
+        <Portfolio />
+      </div>
     </div>
   );
 }

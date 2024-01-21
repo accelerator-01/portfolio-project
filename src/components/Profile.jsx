@@ -1,13 +1,16 @@
 function Profile() {
   return (
-    <div className="container px-5 py-5">
-      <h1 className="text-3xl font-bold text-white">Ahmad Firdaus</h1>
+    <div className="container border p-5">
+      <h1 className="font-sherif text-3xl font-bold text-white">
+        Hello there! I am Ahmad Firdaus~
+      </h1>
       <h2 className="text-xl font-semibold text-white">
-        Web Developer & Ethical Hacker
+        Web Developer & Penetration Tester.
       </h2>
-      <p className="font-serif text-lg text-white">
-        Full-stack Developer and also Penetration Tester. Experience for
-        building a website and maintain server.
+      <p className="font-mono text-lg text-white">
+        Full-stack Developer and Cyber Security Enthusiast.
+        <br />
+        Experienced for building a website and vulnerability assessment.
       </p>
     </div>
   );
