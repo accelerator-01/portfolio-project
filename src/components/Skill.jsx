@@ -44,11 +44,11 @@ function Skill() {
           alt="NodeJs img"
           width="40px"
         />
-        <img
+        {/* <img
           src="https://simpleicons.vercel.app/mongodb/47A248"
           alt="MongooDB img"
           width="40px"
-        />
+        /> */}
       </div>
       <div className="my-5 flex gap-4">
         <h2 className="text-bold font-mono text-white">Operating System:</h2>

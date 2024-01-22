@@ -1,6 +1,6 @@
 function Portfolio() {
   return (
-    <div>
+    <div className="border">
       <p>Portfolio Project</p>
     </div>
   );

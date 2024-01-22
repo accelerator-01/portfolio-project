@@ -1,6 +1,6 @@
 import Skill from "./components/Skill";
 import About from "./components/About";
-import Portfolio from "./components/Portfolio";
+// import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Profile from "./components/Profile";
 // import Cert from "./components/Cert";
@@ -14,9 +14,9 @@ export default function App() {
         {/* <Cert /> */}
         <Contact />
       </div>
-      <div className="bg-slate-800">
+      <div className="mb-5 bg-slate-800">
         <About />
-        <Portfolio />
+        {/* <Portfolio /> */}
       </div>
     </div>
   );
