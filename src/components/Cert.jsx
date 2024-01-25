@@ -1,18 +1,41 @@
+import Marquee from "react-fast-marquee";
+
 function Cert() {
   return (
-    <div className="my-2 flex gap-0 border p-5">
-      <img
-        className="h-20 w-28"
-        src="/Images/Certificate-of-Beginner-Web-Develoeper.pdf"
-      />
-      <img
-        src="/Images/Certificate-of-Beginner-Ethical-Hacker.jpg"
-        className="h-20 w-28"
-      />
-      <img
-        className="h-20 w-28"
-        src="/Images/Certificate-of-Learning-React.pdf"
-      />
+    <div className="border">
+      <h1 className="text-bold text-center font-mono text-white underline">
+        Certificate:
+      </h1>
+      <Marquee className="my-2 p-5">
+        <img
+          className="h-48 w-56"
+          src="/Images/Certificate-of-Beginner-Web-Develoeper.jpg"
+        />
+
+        <img
+          src="/Images/Certificate-of-Beginner-Ethical-Hacker.jpg"
+          className="h-48 w-56"
+        />
+
+        <img
+          className="h-48 w-56"
+          src="/Images/Certificate-of-Learning-React.jpg"
+        />
+
+        <img
+          className="h-48 w-56"
+          src="/Images/Certificate-of-Learn-Penetration-Testing.jpg"
+        />
+        <img
+          className="h-48 w-56"
+          src="/Images/Certificate-of-learn-Wireshark.jpg"
+        />
+
+        <img
+          className="h-48 w-56"
+          src="/Images/Certificate-of-Red-Teaming.jpg"
+        />
+      </Marquee>
     </div>
   );
 }

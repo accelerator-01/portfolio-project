@@ -1,7 +1,9 @@
 function Skill() {
   return (
     <div className="container mx-auto border p-5">
-      <h1 className="font-mono text-xl text-white underline">Skills</h1>
+      <h1 className="text-bold text-center font-mono text-white underline">
+        Skills:
+      </h1>
       <div className="my-5 flex gap-4">
         <h2 className="text-bold font-mono text-white">
           Programming Language:
