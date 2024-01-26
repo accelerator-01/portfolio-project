@@ -9,32 +9,23 @@ function Cert() {
       <Marquee className="my-2 p-5">
         <img
           className="h-48 w-56"
-          src="/Images/Certificate-of-Beginner-Web-Develoeper.jpg"
+          src="/Certificate-of-Beginner-Web-Develoeper.jpg"
         />
 
         <img
-          src="/Images/Certificate-of-Beginner-Ethical-Hacker.jpg"
+          src="/Certificate-of-Beginner-Ethical-Hacker.jpg"
           className="h-48 w-56"
         />
 
-        <img
-          className="h-48 w-56"
-          src="/Images/Certificate-of-Learning-React.jpg"
-        />
+        <img className="h-48 w-56" src="/Certificate-of-Learning-React.jpg" />
 
         <img
           className="h-48 w-56"
-          src="/Images/Certificate-of-Learn-Penetration-Testing.jpg"
+          src="/Certificate-of-Learn-Penetration-Testing.jpg"
         />
-        <img
-          className="h-48 w-56"
-          src="/Images/Certificate-of-learn-Wireshark.jpg"
-        />
+        <img className="h-48 w-56" src="/Certificate-of-learn-Wireshark.jpg" />
 
-        <img
-          className="h-48 w-56"
-          src="/Images/Certificate-of-Red-Teaming.jpg"
-        />
+        <img className="h-48 w-56" src="/Certificate-of-Red-Teaming.jpg" />
       </Marquee>
     </div>
   );
