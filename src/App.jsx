@@ -1,6 +1,6 @@
 import Skill from "./components/Skill";
 import About from "./components/About";
-// import Portfolio from "./components/Portfolio";
+import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Profile from "./components/Profile";
 import Cert from "./components/Cert";
@@ -14,7 +14,7 @@ export default function App() {
         <Skill />
       </div>
       <div className="m-3 overflow-hidden bg-slate-800 p-4">
-        {/* <Portfolio /> */}
+        <Portfolio />
         <Cert />
         <Contact />
       </div>

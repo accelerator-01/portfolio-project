@@ -2,7 +2,7 @@ function Contact() {
   return (
     <div className="container mx-auto border p-5">
       <h1 className="text-bold text-center font-mono text-white underline">
-        Contact me on:
+        Social Media:
       </h1>
       <a
         href="https://ahmd.firdaus99@gmail.com"
