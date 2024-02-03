@@ -1,10 +1,12 @@
+import TypeIt from "typeit-react";
+
 function Profile() {
   return (
-    <div className="container border p-5">
-      <h1 className="font-sherif text-3xl font-bold text-white">
-        Hello there! I am Ahmad Firdaus~
-      </h1>
-      <h2 className="text-xl font-semibold text-white">
+    <div className="container mx-auto mb-5">
+      <TypeIt className="font-sherif text-4xl font-bold text-white">
+        Hello there! I&apos;m Ahmad Firdaus{" "}
+      </TypeIt>
+      <h2 className="mb-5 text-xl font-semibold text-white">
         Web Developer & Penetration Tester.
       </h2>
       <p className="font-mono text-lg text-white">

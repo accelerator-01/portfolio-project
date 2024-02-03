@@ -1,7 +1,7 @@
 function About() {
   return (
-    <div className="border">
-      <h1 className="text-bold mt-3 text-center font-mono text-white underline">
+    <div className="container mx-auto">
+      <h1 className="text-bold mb-5 text-center font-mono text-white underline">
         About Me:
       </h1>
       <div className="font-mono font-semibold text-slate-300">

@@ -1,7 +1,7 @@
 function Contact() {
   return (
-    <div className="container mx-auto border p-5">
-      <h1 className="text-bold text-center font-mono text-white underline">
+    <div className="container mx-auto p-5">
+      <h1 className="text-bold mb-5 text-center font-mono text-white underline">
         Social Media:
       </h1>
       <a
@@ -10,7 +10,7 @@ function Contact() {
       >
         ahmd.firdaus99@gmail.com
       </a>
-      <div className="flex gap-3 py-2">
+      <div className="flex gap-5 py-2">
         <a href="https://wa.me/+6282232040664" target="_blank">
           <img
             width="40px"

@@ -8,12 +8,12 @@ import Cert from "./components/Cert";
 export default function App() {
   return (
     <div className="container mx-auto lg:grid lg:grid-cols-2 lg:gap-x-1">
-      <div className="m-3 border-spacing-5 overflow-hidden bg-slate-800 p-4">
+      <div className="m-3 overflow-hidden p-4">
         <Profile />
         <About />
         <Skill />
       </div>
-      <div className="m-3 overflow-hidden bg-slate-800 p-4">
+      <div className="m-3 overflow-hidden p-4">
         <Portfolio />
         <Cert />
         <Contact />

@@ -1,10 +1,10 @@
 function Skill() {
   return (
-    <div className="container mx-auto border p-5">
-      <h1 className="text-bold text-center font-mono text-white underline">
+    <div className="container mx-auto p-5">
+      <h1 className="text-bold mb-5 text-center font-mono text-white underline">
         Skills:
       </h1>
-      <div className="my-5 flex gap-4">
+      <div className="mb-2 flex gap-4 border p-2">
         <h2 className="text-bold font-mono text-white">
           Programming Language:
         </h2>
@@ -24,7 +24,7 @@ function Skill() {
           width="40px"
         />
       </div>
-      <div className="my-5 flex gap-4">
+      <div className="mb-2 flex gap-4 border p-2">
         <h2 className="text-bold font-mono text-white">Framework:</h2>
         <img
           src="https://simpleicons.vercel.app/react/61DAFB"
@@ -52,7 +52,7 @@ function Skill() {
           width="40px"
         /> */}
       </div>
-      <div className="my-5 flex gap-4">
+      <div className="mb-2 flex gap-4 border p-2">
         <h2 className="text-bold font-mono text-white">Operating System:</h2>
         <img
           src="https://simpleicons.vercel.app/linux/FCC624"
