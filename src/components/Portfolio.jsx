@@ -21,13 +21,13 @@ function Portfolio() {
           className="ml-3 justify-between font-serif text-lg text-white"
         >
           <a
-            className="hover:text-blue-500 hover:underline"
+            className="underline hover:text-blue-500 hover:underline"
             href="https://fast-react-pizza-blond.vercel.app/"
             target="_blank"
           >
             Fast React Pizza Co.
           </a>
-          <span className="">Click here to see the preview</span>
+          <span>Preview</span>
         </AccordionHeader>
         <AccordionBody>
           <img
@@ -43,13 +43,13 @@ function Portfolio() {
           className="ml-3 justify-between font-serif text-lg text-white"
         >
           <a
-            className="hover:text-blue-500 hover:underline"
+            className="underline hover:text-blue-500 hover:underline"
             href="https://world-wise-project.vercel.app/"
             target="_blank"
           >
             World Wise Project
           </a>
-          <span className="">Click here to see the preview</span>
+          <span>Preview</span>
         </AccordionHeader>
         <AccordionBody>
           <img
@@ -65,13 +65,13 @@ function Portfolio() {
           className="ml-3 justify-between font-serif text-lg text-white"
         >
           <a
-            className="hover:text-blue-500 hover:underline"
+            className="underline hover:text-blue-500 hover:underline"
             href="https://real-estate-project-omega.vercel.app/"
             target="_blank"
           >
-            Real Estate Project (on going)
+            Real Estate Project
           </a>
-          <span className="">Click here to see the preview</span>
+          <span>Preview</span>
         </AccordionHeader>
         <AccordionBody>
           <img
