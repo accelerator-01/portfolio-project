@@ -26,6 +26,8 @@ function Cert() {
         <img className="h-48 w-56" src="/Certificate-of-learn-Wireshark.jpg" />
 
         <img className="h-48 w-56" src="/Certificate-of-Red-Teaming.jpg" />
+
+        <img className="h-48 w-56" src="/Certificate-of-Learn-Scanning.jpg" />
       </Marquee>
     </div>
   );
